@@ -37,7 +37,7 @@ npm start
 $ cd frontend
 $ npm install
 ```
-2. Execução do servidor
+2. Execução da aplicação
 ```
 npm start
 ```
@@ -48,7 +48,7 @@ npm start
 $ cd mobile
 $ npm install
 ```
-2. Execução do servidor
+2. Execução da aplicação
 ```
 npm start
 ```
