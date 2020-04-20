@@ -53,6 +53,11 @@ $ npm install
 npm start
 ```
 
+<h1 align="center">
+    <img alt="BeTheHero" src="/frontend/src/assets/login.png" />
+    <img alt="BeTheHero" src="/frontend/src/assets/casos.png" />
+</h1>
+
 ## 🔖 Layout
 
 [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1)
